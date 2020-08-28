@@ -1,4 +1,4 @@
-#Graduate Admission Analysis
+# Graduate Admission Analysis
 
 ## Required libaries:
 * numpy
